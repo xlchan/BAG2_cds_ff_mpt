@@ -1,6 +1,6 @@
 [submodule "BAG_framework"]
 	path = BAG_framework
-	url = https://github.com/xlchan/BAG_framework-2.git
+	url = https://github.com/xlchan/BAG_framework-1.git
 [submodule "cds_ff_mpt"]
 	path = cds_ff_mpt
 	url = https://github.com/xlchan/cds_ff_mpt-1.git
