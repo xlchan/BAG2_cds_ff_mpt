@@ -3,7 +3,7 @@
 	url = https://github.com/xlchan/BAG_framework.git
 [submodule "cds_ff_mpt"]
 	path = cds_ff_mpt
-	url = https://github.com/xlchan/cds_ff_mpt.git
+	url = https://github.com/xlchan/cds_ff_mpt-1.git
 [submodule "BAG2_TEMPLATES_EC"]
 	path = BAG2_TEMPLATES_EC
 	url = https://github.com/xlchan/BAG2_TEMPLATES_EC.git
