@@ -9,7 +9,7 @@
 	url = https://github.com/xlchan/BAG2_TEMPLATES_EC.git
 [submodule "BAG_XBase_demo"]
 	path = BAG_XBase_demo
-	url = https://github.com/xlchan/BAG_XBase_demo.git
+	url = https://github.com/xlchan/BAG_XBase_demo-1.git
 [submodule "bag_advanced_examples"]
 	path = bag_advanced_examples
 	url = https://github.com/xlchan/bag_advanced_examples.git
